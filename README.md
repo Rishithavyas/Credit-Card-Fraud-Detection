@@ -1,4 +1,3 @@
-# Credit-Card-Fraud-Detection
 # End-to-End Maching Learning Pipeline using Apache Spark and AWS Cloud.
 This is an end-to-end machine learning pipeline built using apache spark and aws cloud. 
 In this project, we have done the following things:
